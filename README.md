@@ -53,7 +53,7 @@
   <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
   <img width="12" />
   <img src="https://a.storyblok.com/f/146871/2000x2768/f575093b00/lens-logo-two-color.png" height="40" alt="lens logo"  />
-  <img width="12" />
+  <img width="14" />
 </div>
 
 ###
