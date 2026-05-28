@@ -1,5 +1,3 @@
-<h1 align="center">Aspiring DevOps engineer/nodejs developer </h1>
-
 ###
 
 <div align="center">
@@ -14,8 +12,6 @@
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible logo"  />
   <img width="12" />
@@ -48,11 +44,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
-  <img width="12" />
-  <img src="https://a.storyblok.com/f/146871/2000x2768/be8400c8dd/lens-logo-vertical-inverted.png" height="37" alt="lens logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
 </div>
 
