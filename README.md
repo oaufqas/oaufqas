@@ -47,9 +47,3 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
 </div>
-
-###
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=oaufqas&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
